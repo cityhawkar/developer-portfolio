@@ -33,3 +33,71 @@ h1{
     text-align: center;
     margin-top: 40px;
 }
+.display-flexible{
+    background-color: aquamarine;
+}
+
+.part h3{
+    color: chocolate;
+}
+.part-one h3{
+    color: chocolate;
+}
+.part{
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 50px;
+    padding: 20px;
+    border-left: 7px solid goldenrod;  
+    margin-right: 35px;
+    width: 90%;
+    margin-left: 35px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+.part-one{
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 50px;
+    padding: 20px;
+    border-left: 10px solid blue;
+    margin-left: 35px;
+    width: 90%;
+    margin-right: 35px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+
+.container{
+    display: flex;
+    
+}
+.part h2{
+    font-size: 40px;
+}
+.part-one h2{
+    font-size: 40px;
+}
+.sector{
+    background-color: rgb(179, 245, 204);
+}
+footer p{
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+    word-wrap: break-word;
+}
+.display{
+    display: flex;
+    margin-top: 100px;
+    background-color: gold;
+}
+.second{
+    padding: 30px;
+    background-color: crimson;
+    margin-left: 100px;
+    text-align: justify;
+   border: 1px dotted yellow;
+   height: 400px;
+}
+.none{
+    color: deeppink;
+}
